@@ -8,4 +8,7 @@ Welcome to my profile! Currently working in secret project and should not be tol
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Pytorch (Tensorflow is for boomers)
-- 💬 Ask me about anything related to philosophical question and existence
+- 💬 Ask me about anything related to philosophical question and existence of life 
+- 🤣 "I Use Arch BTW"
+
+🥸 Currently living as Minimalism 🥸
