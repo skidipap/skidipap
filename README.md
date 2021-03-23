@@ -4,6 +4,7 @@
 </p>
 
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
 Welcome to my profile! Currently working in secret project and should not be told that I did it :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
@@ -13,6 +14,6 @@ Welcome to my profile! Currently working in secret project and should not be tol
 
 <p align="center">
 <img src="img/tenor.gif">
-</p>
-
+<br>
 🥸 Currently living as Minimalism 🥸
+</p>
