@@ -11,4 +11,8 @@ Welcome to my profile! Currently working in secret project and should not be tol
 - 💬 Ask me about anything related to philosophical question and existence of life 
 - 🤣 "I Use Arch BTW"
 
+<p align="center">
+<img src="img/tenor.gif">
+</p>
+
 🥸 Currently living as Minimalism 🥸
